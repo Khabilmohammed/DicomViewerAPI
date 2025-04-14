@@ -1,0 +1,6 @@
+@DicomViewerAPI_HostAddress = http://localhost:5029
+
+GET {{DicomViewerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
